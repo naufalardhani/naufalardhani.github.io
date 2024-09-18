@@ -16,7 +16,7 @@ timezone:
 
 title: Naufal Ardhani # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Cyber security, Offensive Security, CTF Writeup's # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   CTF Writeups & Cyber Security Stuff.
